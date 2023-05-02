@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Munim Iftikhar
 - 👀 I’m working as a Technical Content Engineer at Metaschool
-- 🌱 I’m currently learning ReactJS. NextJS, and NodeJS
+- 🌱 I’m currently learning ReactJS, NextJS, and NodeJS
 - 💞️ I have an art acount @codesomeart, where I post my art projects 
 - 📫 You can reach to me via twitter @munimcodess
 

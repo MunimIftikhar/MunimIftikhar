@@ -1,6 +1,6 @@
 ## Hey there, I’m Munim Iftikhar 👋
 
-### I am a Coding Maniac, Artist, and a Technical Writer.
+### I am a Developer, Artist, and a Technical Writer.
 
 - 🔭 I’m currently working as a Technical Content Engineer at Metaschool, where I make project based courses on Web3.
 - 🌱 I’m currently learning HTML, CSS, Javascript, and ReactJS.
